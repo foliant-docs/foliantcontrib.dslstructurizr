@@ -4,7 +4,7 @@ The preprocessor renders diagrams, using [Structurizr DSL](https://docs.structur
 
 ## Installation
 
-> This section is for reference. The Gibberish preprocessor is currently not available in PyPi.
+> This section is for reference. The Structurizr DSL preprocessor is currently not available in PyPi.
 
 ```bash
 $ pip install foliantcontrib.dslstructurizr
